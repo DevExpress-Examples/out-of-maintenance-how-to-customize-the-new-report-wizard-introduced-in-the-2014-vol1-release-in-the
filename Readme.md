@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomWizardCommandHandler.cs](./CS/CustomWizardExample/CustomWizardCommandHandler.cs) (VB: [CustomWizardCommandHandler.vb](./VB/CustomWizardExample/CustomWizardCommandHandler.vb))
+* **[Form1.cs](./CS/CustomWizardExample/Form1.cs) (VB: [Form1.vb](./VB/CustomWizardExample/Form1.vb))**
+<!-- default file list end -->
 # How to customize the New Report Wizard (introduced in the 2014 vol.1 release) in the End-User Designer
 
 
